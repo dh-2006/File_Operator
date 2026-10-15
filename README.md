@@ -95,7 +95,7 @@ See the actual program output:
 
 Watch the complete working demonstration:
 
-[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Project_Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1lFLIsGA7cUkjZULwvcS1OLjGTEf6wqsm/view?usp=sharing)
+[![Watch Demo](https://img.shields.io/badge/▶️_Watch_Project_Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1JWqU30Sk_4vfAV-O-BklAHrCwl94x2Rq/view?usp=sharing)
 
 ---
 
@@ -128,7 +128,7 @@ Personal-Journal-Manager/
 │
 ├── File_Operator.py
 ├── output.png
-├── FILE_OPERATOR.mp4
+├── file_operator.mp4
 ├── journal.txt       # Created automatically when an entry is saved
 └── README.md
 ```
